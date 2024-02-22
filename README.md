@@ -3,13 +3,13 @@ users to perform operations such as adding, updating, deleting, and searching fo
 
 
 Features:
-Add Student: Enter student details including Roll No., Name, Email, Gender, Contact, Date of Birth, and Address.
-Update Student: Modify existing student information.
-Delete Student: Remove a student from the system.
-Search Student: Search for students based on Roll No., Name, or Contact.
-Display All Students: View a list of all registered students.
-Data Validation: Ensure that all required fields are filled before performing operations.
-Database Integration: Utilize a MySQL database to store and retrieve student records.
+1. Add Student: Enter student details including Roll No., Name, Email, Gender, Contact, Date of Birth, and Address.
+2. Update Student: Modify existing student information.
+3. Delete Student: Remove a student from the system.
+4. Search Student: Search for students based on Roll No., Name, or Contact.
+5. Display All Students: View a list of all registered students.
+6. Data Validation: Ensure that all required fields are filled before performing operations.
+7. Database Integration: Utilize a MySQL database to store and retrieve student records.
 
 
 Prerequisites:
